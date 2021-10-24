@@ -1,4 +1,5 @@
-### Hi there 👋
+# 👋 Hi there! I'm Morteza Mirzai.
+I'm currently student at Amirkabir University of Technology.
 
 <!--
 **mirzaim/mirzaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
